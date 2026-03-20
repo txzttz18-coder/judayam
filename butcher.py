@@ -33,7 +33,7 @@ from aiogram.client.default import DefaultBotProperties
 
 # --------------------- LOGGING ---------------------
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("kino_serial")
+logger = logging.getLogger("kino_serial_bot")
 
 # --------------------- KONFIG ---------------------
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8522754363:AAFH-PpaLUciTXS8IfWj2_zjqIbSs20K9Tg").strip()
@@ -45,7 +45,7 @@ try:
 except Exception:
     ADMIN_ID = 0
 
-DB_FILE = os.getenv("DB_FILE", "kino_serial.db").strip() or "kino_serial.db"
+DB_FILE = os.getenv("DB_FILE", "kino_serial_bot.db").strip() or "kino_serial.db"
 VALIDATION_TTL = int(os.getenv("VALIDATION_TTL", "3600"))
 REQUIRED_CHANNEL = os.getenv("REQUIRED_CHANNEL", "").strip()
 
