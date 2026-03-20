@@ -1,0 +1,308 @@
+SERIAL RO'YXATI
+====================
+
+Kod: 1000
+Nomi: Yuruvchi murdalar
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T11:44:35.955134+00:00
+Qismlar: 173
+
+Kod: 1001
+Nomi: G'alati Narsalar (Stranger things)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:21:11.113276+00:00
+Qismlar: 42
+
+Kod: 1002
+Nomi: Yetti qirollik ritsari
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:22:20.636261+00:00
+Qismlar: 6
+
+Kod: 1003
+Nomi: Mashaqqatlar sari (Breaking Bad)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:25:37.364243+00:00
+Qismlar: 62
+
+Kod: 1004
+Nomi: Zulmat (Dark)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:28:39.295733+00:00
+Qismlar: 26
+
+Kod: 1005
+Nomi: Chernobyl
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:29:32.420093+00:00
+Qismlar: 5
+
+Kod: 1006
+Nomi: Ko'plar orasida (Pluribus)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:31:04.699185+00:00
+Qismlar: 9
+
+Kod: 1007
+Nomi: Taxtlar o'yini (Game of Thrones)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:34:51.656579+00:00
+Qismlar: 73
+
+Kod: 1008
+Nomi: Ajdar uyi (House of Dragon)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:36:19.989510+00:00
+Qismlar: 18
+
+Kod: 1009
+Nomi: U: Derryga xush kelibsiz (It: Welcome to Derry)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:37:49.289341+00:00
+Qismlar: 8
+
+Kod: 1010
+Nomi: Biz so'ngimiz (The last of us)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:40:21.231081+00:00
+Qismlar: 16
+
+Kod: 1011
+Nomi: Miliarderlar bunkeri
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:41:24.628403+00:00
+Qismlar: 8
+
+Kod: 1012
+Nomi: Loki
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:42:20.834360+00:00
+Qismlar: 12
+
+Kod: 1013
+Nomi: Yigit so'zi (Слова пацана)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:43:47.904329+00:00
+Qismlar: 8
+
+Kod: 1014
+Nomi: Yaxshisi Saulga qo'ngiroq qiling (Better call Saul)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:46:25.755505+00:00
+Qismlar: 63
+
+Kod: 1015
+Nomi: Dexter
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:50:32.884241+00:00
+Qismlar: 96
+
+Kod: 1016
+Nomi: Uch tana muammosi
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T14:51:59.270207+00:00
+Qismlar: 8
+
+Kod: 1017
+Nomi: Amerikani qurgan insonlar
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:22:52.930211+00:00
+Qismlar: 4
+
+Kod: 1018
+Nomi: Noyob buyumlar xonasi
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:23:54.172510+00:00
+Qismlar: 8
+
+Kod: 1019
+Nomi: Godzilla | Monarx: Maxluqlar merosi
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:25:37.196212+00:00
+Qismlar: 10
+
+Kod: 1020
+Nomi: Vampirlar kundaligi (Vampire diaries)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:32:26.066711+00:00
+Qismlar: 171
+
+Kod: 1021
+Nomi: Borsa kelmas (From)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:34:29.184230+00:00
+Qismlar: 30
+
+Kod: 1022
+Nomi: Sen (You)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:35:56.876787+00:00
+Qismlar: 30
+
+Kod: 1023
+Nomi: Ash yovuz o'liklarga qarshi
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:38:20.297329+00:00
+Qismlar: 30
+
+Kod: 1024
+Nomi: Kutubxonachilar & Kutubxonachilar:  Yangi bob
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:40:52.239844+00:00
+Qismlar: 20
+
+Kod: 1025
+Nomi: Quruqlik va dengiz urishi
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:46:02.448690+00:00
+Qismlar: 5
+
+Kod: 1026
+Nomi: Yigitlar (The boys)
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:47:46.343696+00:00
+Qismlar: 32
+
+Kod: 1027
+Nomi: Cobra Kai
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:50:59.565943+00:00
+Qismlar: 65
+
+Kod: 1028
+Nomi: Tungi bo'rilar | Teen wolf
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:55:17.351949+00:00
+Qismlar: 100
+
+Kod: 1029
+Nomi: V avlodi | Gen V
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:57:32.709924+00:00
+Qismlar: 16
+
+Kod: 1030
+Nomi: Kalmar o'yini | Squid Game
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T15:59:38.259701+00:00
+Qismlar: 22
+
+Kod: 1031
+Nomi: Ajal o'yini | Alice in Borderland
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:01:28.416708+00:00
+Qismlar: 22
+
+Kod: 1032
+Nomi: Jazolovchi | Punisher
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:04:10.895280+00:00
+Qismlar: 19
+
+Kod: 1033
+Nomi: Kelajak afsonalari | Legends of tomorrow
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:07:22.445783+00:00
+Qismlar: 46
+
+Kod: 1034
+Nomi: Killerbot
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:08:47.037673+00:00
+Qismlar: 10
+
+Kod: 1035
+Nomi: Riverdeyl | Riverdale
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:13:28.971103+00:00
+Qismlar: 85
+
+Kod: 1036
+Nomi: Fallout
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:14:46.474107+00:00
+Qismlar: 16
+
+Kod: 1037
+Nomi: Qirolichaning yurishi | Queen's Gambit
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:16:06.841924+00:00
+Qismlar: 7
+
+Kod: 1038
+Nomi: Qog'oz bino | Money Heist
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:20:06.681994+00:00
+Qismlar: 48
+
+Kod: 1039
+Nomi: Sopranos
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:26:22.087026+00:00
+Qismlar: 52
+
+Kod: 1040
+Nomi: Qalqon agentlari
+Til: uzbek tilida
+Yaratilgan: 2026-03-05T16:30:53.755291+00:00
+Qismlar: 64
+
+Kod: 1041
+Nomi: Test
+Til: nomalum tilida
+Yaratilgan: 2026-03-05T17:37:52.183939+00:00
+Qismlar: 16
+
+Kod: 1042
+Nomi: Test2
+Til: nomalum tilida
+Yaratilgan: 2026-03-06T01:22:37.845597+00:00
+Qismlar: 15
+
+Kod: 1043
+Nomi: Test3
+Til: nomalum tilida
+Yaratilgan: 2026-03-06T01:29:01.789276+00:00
+Qismlar: 15
+
+Kod: 1044
+Nomi: Test4
+Til: nomalum tilida
+Yaratilgan: 2026-03-06T01:34:33.017638+00:00
+Qismlar: 20
+
+Kod: 1045
+Nomi: Shogun
+Til: uzbek tilida
+Yaratilgan: 2026-03-06T01:58:56.387954+00:00
+Qismlar: 10
+
+Kod: 1046
+Nomi: Test5
+Til: nomalum tilida
+Yaratilgan: 2026-03-06T02:02:45.621102+00:00
+Qismlar: 20
+
+Kod: 1047
+Nomi: Haqiqiylar | The Originals
+Til: uzbek tilida
+Yaratilgan: 2026-03-06T05:45:38.305179+00:00
+Qismlar: 54
+
+Kod: 1048
+Nomi: Flash
+Til: uzbek tilida
+Yaratilgan: 2026-03-06T05:51:57.676560+00:00
+Qismlar: 185
+
+Kod: 1049
+Nomi: Garlemning choʻqintirgan otasi
+Til: uzbek tilida
+Yaratilgan: 2026-03-06T05:53:37.356682+00:00
+Qismlar: 30
+
+Kod: 1050
+Nomi: So'nggi qirollik | The last Kingdom
+Til: uzbek tilida
+Yaratilgan: 2026-03-06T05:55:39.583687+00:00
+Qismlar: 46

@@ -32,7 +32,7 @@ from aiogram.types import (
 from aiogram.client.default import DefaultBotProperties
 
 # --------------------- LOGGING ---------------------
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARNING)
 logger = logging.getLogger("kino_serial_bot")
 
 # --------------------- KONFIG ---------------------
