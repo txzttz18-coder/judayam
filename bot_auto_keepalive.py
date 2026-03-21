@@ -42,7 +42,7 @@ API_HASH = os.getenv("API_HASH", "41495a370906cf32c7242e1454ba347e")
 SESSION_FILE = Path("user_session.txt")
 
 # Railway yoki boshqa hosting porti
-APP_PORT = int(os.getenv("PORT", "8084"))
+APP_PORT = int(os.getenv("PORT", "8086"))
 
 # Public URL bo'lsa shu yerga yozasiz:
 # Masalan: https://your-app.up.railway.app
@@ -60,7 +60,7 @@ TASHKENT_TZ = timezone(timedelta(hours=5))
 
 # Kuzatiladigan kanal va uning discussion group'i
 TARGETS = {
-    "TOPALIY_CAP": {
+    "topaliycapp": {
         "discussion_group": "aliycap_chatt",
         "comment_text": "Karta: 9860 3566 3116 0575\nPubg id 51874772109\nJoniz sog bosin",
     },
@@ -72,7 +72,7 @@ TARGETS = {
 
     "aslamboi": {
         "discussion_group": "Aslamboiiiiiiiiiiiii",
-        "comment_text": "Aslamboi qalaysansiz men addushi muhlisizman siz uc tashab bermaguningizcha postingizdagi kommentda hech bolmasa 5 top ichida bolib yozaman tahrir qilmayman pubg id 51874772109 postni kutib otrganimni isboti <real_time>",
+        "comment_text": "Aslamboi qalaysiz men addushi muhlisizman kommentda hech bolmasa 5 top ichida bolib yozaman tahrir qilmayman pubg id 51874772109",
     },
     
     "acrofilms_uz": {
